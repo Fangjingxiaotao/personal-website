@@ -12,7 +12,7 @@ publication: IEEE Transactions on Instrumentation and Measurements
 publication_short: IEEE TIM
 abstract: ""
 draft: false
-featured: true
+featured: false
 image:
   filename: null
   focal_point: Smart
